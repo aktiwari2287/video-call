@@ -21,6 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-video-call-anand/node_modules
-video-call-anand/client/node_modules
